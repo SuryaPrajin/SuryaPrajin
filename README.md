@@ -1,5 +1,15 @@
 # 💫 About Me:
-Machine Learning: From building neural networks to deploying real-time AI applications.<br>Web Development: Developing both web applications with AI and ML integrations.<br>AI Solutions: Making apps smarter and more efficient with deep learning, reinforcement learning, and natural language processing.
+👋 Hey, I'm Surya Prajin — a Backend Developer and Machine Learning Engineer passionate about building scalable systems and intelligent solutions.
+
+🛠️ I specialize in designing robust backend architectures using Node.js, Express, and MongoDB, with a strong focus on performance, security, and clean API design.
+
+🤖 On the ML front, I love diving into data, building models with Python, TensorFlow, and PyTorch, and deploying them to solve real-world problems.
+
+🔧 I enjoy bridging backend logic with machine learning pipelines — whether it’s automating data workflows, deploying models to production, or integrating AI into full-stack apps.
+
+📈 Currently working on projects that combine backend engineering with AI to create impactful, scalable products.
+
+Let’s connect and build smarter systems together!
 
 
 ## 🌐 Socials:
